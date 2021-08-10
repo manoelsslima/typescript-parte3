@@ -8,5 +8,5 @@
         "strictNullChecks": true,
         "experimentalDecorators": true
     },
-    "include": ["app/**/*"]
+    "include": ["app/src/**/*"]
 }
