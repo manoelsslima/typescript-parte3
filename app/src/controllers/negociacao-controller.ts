@@ -20,7 +20,7 @@ export class NegociacaoController {
         this.negociacoesView.update(this.negociacoes);
     }
 
-    @logarTempoDeExecucao()
+    @logarTempoDeExecucao(true)
     public adiciona(): void {
         /*
             Zé, você já viu isso?
